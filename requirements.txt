@@ -1,0 +1,8 @@
+streamlit
+pypdf
+python-docx
+Pillow
+reportlab
+googletrans==4.0.0rc1
+gtts
+docx2pdf
